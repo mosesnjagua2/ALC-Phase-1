@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003763</color>
+    <color name="colorPrimaryDark">#003366</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButton">#FFAF30</color>
+    <color name="color_page_bd">#003763</color>
+    <color name="color_profile_bg_start">#003763</color>
+    <color name="color_profile_bg_end">#003766</color>
+</resources>

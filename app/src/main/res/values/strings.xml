@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_about_alc">  ABOUT ALC  </string>
+    <string name="string_my_profile">  MY PROFILE  </string>
+    <string name="string_alc_welcome">  Welcome to ALC 4.0  </string>
+    <string name="string_toolbar_about_andela">  About ALC  </string>
+    <string name="string_toolbar_my_profile">  My Profile  </string>
+<!--MY DETAILS-->
+    <string name="string_my_name">  Moses Njagua </string>
+    <string name="string_track">  Track: Android </string>
+    <string name="string_Country"> Country: Kenya </string>
+    <string name="string_email">  Email: mosesnjagua2@gmail.com </string>
+    <string name="string_phone_number"> Phone number: +254724960911 </string>
+    <string name="string_slack_name"> Slack Username: @Njagua </string>
+</resources>
+

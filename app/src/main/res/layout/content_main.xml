@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    android:background="@color/color_page_bd"
+    tools:showIn="@layout/activity_main">
+
+    <Button
+        android:id="@+id/button_about_alc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/string_about_alc"
+        android:layout_margin="15sp"
+        android:textStyle="bold"
+         android:paddingLeft="30sp"
+        android:paddingRight="30sp"
+        android:paddingTop="0sp"
+        android:paddingBottom="0sp"
+        android:background="@drawable/shape_button"
+        android:layout_centerInParent="true"
+        android:textSize="15sp"
+          />
+    <Button
+        android:id="@+id/button_my_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/string_my_profile"
+        android:layout_below="@+id/button_about_alc"
+        android:paddingLeft="30sp"
+        android:paddingRight="30sp"
+        android:layout_margin="5sp"
+        android:textStyle="bold"
+        android:paddingTop="0sp"
+        android:paddingBottom="0sp"
+        android:background="@drawable/shape_button"
+        android:layout_centerInParent="true"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:padding="10sp"
+        android:text="@string/string_alc_welcome"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
